@@ -1,6 +1,6 @@
 # Revisão JavaScript
 
-## Numbers and Strings
+## Números e Strings
  
  JavaScript pode compreender diferentes tipos de dados, como números e strings.
 Tente inserir um número no console:
